@@ -1,0 +1,20 @@
+{
+    "Author": "Charles Joy [MSFT]",
+    "ContentSize": 21956,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/provision-azure-environment-resources-from-uploaded-vhd/master/New-AzureEnvironmentResourcesFromUploadedVHD.ps1",
+    "DownloadCount": 2154,
+    "Id": "Provision-Azure-Environment-43d1df4b",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 378,
+    "RaterCount": 4,
+    "Rating": 4.8,
+    "ReleaseDate": "2014-4-23T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook creates a number of Azure Environment Resources (in sequence): Azure Affinity Group, Azure Cloud Service, Azure Storage Account, Azure Storage Container, Azure VM Image, and Azure VM. It also requires the Upload of a VHD to a specified storage container mid-process.",
+    "Title": "Provision Azure Environment Resources from Uploaded VHD",
+    "UpdatedDate": "2014-10-18T00:00:00",
+    "Url": "https://github.com/azureautomation/provision-azure-environment-resources-from-uploaded-vhd",
+    "UserTags": "Microsoft Azure, Building Clouds, Provisioning"
+}
